@@ -2,6 +2,8 @@
 
 clipcap on CLEVER (visual reasoning) 
 
+While image captioning with the "clipcap" outperform the ordinary method, the experiments on our repo demonstrate that scene grounding with large language model method has a hard time answering basic spatial reasoning task. 
+
 ## Results
 
 \ | CLEVER-minval |
