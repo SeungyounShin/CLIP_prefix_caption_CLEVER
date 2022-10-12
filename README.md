@@ -10,7 +10,7 @@ However, we found that **explanation** added to the prompt slightly improve the 
 
 \ | CLEVER-minval |
 ---- | ---- | 
-clipcap(+DINO) | 0.54 | 
+clipcap(+DINO)+finetuned | 0.54 | 
 clipcap(+CLIP) | 0.16 | 
 clipcap(+CLIP+explanation) | 0.23 | 
 
